@@ -39,7 +39,7 @@
 
 <h2 align="center">🌐 Connect with me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://linkedin.com/in/kudkartanmay" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Tanmay-Kudkar" target="_blank">
